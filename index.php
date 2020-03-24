@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 < HTML >
 < HEAD > < TITLE >หน้าแรกของฉัน</ TITLE > </ HEAD >
 < BODY  BGCOLOR = #FFFFFF >
